@@ -1,18 +1,35 @@
-### 👋 Hi there, I'm @rzkalee!
+## 🌷 Hi, I'm Rizka !
 
-I'm a Software Engineering student (PPLG) in Vocational High School, passionate about frontend development and design. Still exploring tools and building small projects to sharpen my skills.
-
----
-
-- 🔭 I’m currently working on: Personal & school projects
-- 🌱 I’m currently learning: Frontend dev, UI/UX design, and Laravel 
-- 👯 I’m looking to collaborate on: Simple open source frontend projects or design collaborations
-- 🤝 I’m open for: Sharing & learning from the dev/design community
-- 💬 Ask me about: Anything frontend or beginner design!
-- 📫 How to reach me: [coming soon!]
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy turning ideas into interfaces ✨
+🎓 Information Systems student at Universitas Sebelas April (UNSAP)  
+🎀 Frontend development & UI/UX design enthusiast  
+✨ Learning by building, designing, and exploring new tools
 
 ---
 
-Thanks for visiting my profile! 🙌  
+### 💖 About Me
+- 🌸 Currently working on personal & campus projects  
+- 🌱 Learning frontend development, UI/UX design, and Laravel  
+- 🤍 Open to simple open-source & design collaborations  
+- 💬 Happy to talk about frontend, UI, or beginner-friendly design  
+- ✨ Fun fact: I love turning ideas into pretty & usable interfaces  
+
+---
+
+### 🎀 Tools & Technologies
+![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-F8C8DC?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFE4E1?style=for-the-badge&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF9AA2?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-CDB4DB?style=for-the-badge&logo=livewire&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-B5EAD7?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FFC6FF?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🌸 Connect with Me
+> Coming soon… ✨
+
+---
+
+Thanks for visiting my GitHub corner 💕  
+Let’s build cute & meaningful things together 🌷
